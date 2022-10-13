@@ -22,6 +22,7 @@ translation: Français translations/French.md
 -->
 
 # Course Main Title
+:purple_heart:   :smiley:
 
 This is your **course** initialization stub.
 
